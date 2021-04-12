@@ -1,0 +1,114 @@
+[{
+  "_id": {
+    "$oid": "602d8a0af63afe3e0ca733aa"
+  },
+  "isAdmin": false,
+  "email": "ala@ala.com",
+  "password": "$2a$10$y2k7wi7xtsjOrLepe9CzNeF4ZG7dofVvWny.GSiFTwRcWJNbc2sk2",
+  "firstName": "seb",
+  "lastName": "alam",
+  "createdAt": {
+    "$date": "2021-02-17T21:26:34.329Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-21T10:55:01.108Z"
+  },
+  "__v": 0,
+  "resetToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDMyMzdkYWU5MjdlNjQ1NWM2NzEwOTUiLCJpYXQiOjE2MTM5MDQ5MDEsImV4cCI6MTYxMzk5MTMwMX0.o8Sl0QZafqK-jBxLHhG0_EvnjIZYfTTF8E4nrsj9lBs"
+},{
+  "_id": {
+    "$oid": "602d8f6d62e0d436e48d7512"
+  },
+  "isAdmin": false,
+  "email": "seb@homer.com",
+  "password": "$2a$10$TcYKTLUhTq2TLEtdvwPGe.QKkxUgydP0Qp6cKsuEkPFYBguedcUka",
+  "firstName": "Steve",
+  "lastName": "Amith",
+  "createdAt": {
+    "$date": "2021-02-17T21:49:33.212Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-19T22:16:48.999Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602fe928cf541434d4b5bd62"
+  },
+  "isAdmin": true,
+  "email": "admin@admin.com",
+  "password": "$2a$10$7y/Onx8/CJi9PaG8P4ysOeMAvKT7XafrzKMuQwTzDluEUxgVnQgVu",
+  "firstName": "Seb",
+  "lastName": "Ala",
+  "createdAt": {
+    "$date": "2021-02-19T16:36:56.359Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-19T16:36:56.359Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603237dae927e6455c671095"
+  },
+  "isAdmin": false,
+  "email": "sohebalam@hotmail.com",
+  "password": "$2a$10$uLWc4LiRDSgUJ2FeogL4Iu.C2eUprq7hdRM0kcjO/bcUhK97adcfq",
+  "firstName": "Seb",
+  "lastName": "Ala",
+  "createdAt": {
+    "$date": "2021-02-21T10:37:14.457Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-21T10:37:14.457Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603963148c10b32f2401add6"
+  },
+  "isAdmin": false,
+  "email": "soheb.alam@enfieldlearningtrust.org",
+  "password": "password",
+  "lastName": "Alam",
+  "firstName": "Soheb",
+  "createdAt": {
+    "$date": "2021-02-26T21:07:33.346Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-26T21:07:33.346Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603a286866f04d044c4861a8"
+  },
+  "isAdmin": false,
+  "email": "seb@home.com",
+  "password": "$2a$10$WGlC5Wz.Ew40/xXGW4dG5OgmFjqfAjzFgiARnZh5.FMaGYfDL4TQ6",
+  "firstName": "sas",
+  "lastName": "adsa",
+  "createdAt": {
+    "$date": "2021-02-27T11:09:28.701Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-27T11:09:28.701Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603ab2d92f1952387c2a427b"
+  },
+  "isAdmin": false,
+  "email": "stella10q@gmail.com",
+  "password": "password",
+  "lastName": "Alam",
+  "firstName": "Soheb",
+  "createdAt": {
+    "$date": "2021-02-27T21:00:09.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-27T21:00:09.950Z"
+  },
+  "__v": 0
+}]

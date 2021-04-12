@@ -1,0 +1,5 @@
+﻿{
+  "secret": "JWTSECRET",
+  "DB": "mongodb://127.0.0.1:27017/",
+  "DB_ATLAS": "mongodb+srv://soheb1234:soheb1234@cluster0.lb1qj.mongodb.net/PROSHOP2?retryWrites=true&w=majority"
+}
